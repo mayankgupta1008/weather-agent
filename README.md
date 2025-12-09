@@ -31,8 +31,8 @@ Intelligent weather notification system with AI agent orchestration, automated s
 
 ```bash
 # 1. Install
-git clone https://github.com/yourusername/weather-agent-using-langchainjs-langgraphjs.git
-cd weather-agent-using-langchainjs-langgraphjs/backend
+git clone https://github.com/yourusername/weather-agent.git
+cd weather-agent/backend
 pnpm install
 
 # 2. Start Redis
